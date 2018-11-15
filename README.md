@@ -1,4 +1,7 @@
 # hello-world
 first steps with GitHub
 
-update
+
+
+just trying to figure out how GitHub works.
+
